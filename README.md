@@ -1,6 +1,8 @@
 # macos-remove-dotfiles-before-eject
 Prepares a removable medium (e.g. a USB stick) before removal and removes it
 
+No one really needs any Mac OS metadata on a Windows or Linux USB stick.
+
 The script rmdot.sh deletes all files which might have been created on a removable medium (e.g. USB stick)
 by MacOS and then ejects the medium.
 
